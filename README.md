@@ -1,2 +1,3 @@
 # logistic_regression
-logistic regression in python
+jupyter notebook for logistic regression in python
+
